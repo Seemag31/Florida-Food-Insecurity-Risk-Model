@@ -4,6 +4,7 @@
 ## Summary
 
 This project investigated the relationship between access to basic resources (internet, vehicle, kitchen) and food insecurity rates across counties in Florida.
+<br>
 
 #### **Our goals were to:**
 
@@ -12,6 +13,8 @@ This project investigated the relationship between access to basic resources (in
 • Classify counties into high-risk and low-risk groups based on food insecurity rates.
 
 • Build a predictive model to estimate food insecurity risk based on accessibility factors. 
+<br>
+
 
 #### **Key Steps:**
 
@@ -36,6 +39,8 @@ This project investigated the relationship between access to basic resources (in
 • Set a threshold for high/low food insecurity based on the mean plus standard deviation of the food insecurity rates.
 
 • Classified counties accordingly to prepare labels for machine learning.
+<br>
+
 
 #### **Main Findings:**
 
