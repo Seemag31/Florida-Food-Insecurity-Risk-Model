@@ -1,1 +1,1 @@
-# Florida-Food-Insecurity-Risk-Model
+# Florida Food Insecurity Risk Model
