@@ -5,7 +5,6 @@
 
 This project investigated the relationship between access to basic resources (internet, vehicle, kitchen) and food insecurity rates across counties in Florida.
 
-
 #### **Our goals were to:**
 
 • Explore the socioeconomic factors influencing food insecurity.
@@ -13,8 +12,6 @@ This project investigated the relationship between access to basic resources (in
 • Classify counties into high-risk and low-risk groups based on food insecurity rates.
 
 • Build a predictive model to estimate food insecurity risk based on accessibility factors. 
-  
-<br>
 
 #### **Key Steps:**
 
@@ -23,8 +20,6 @@ This project investigated the relationship between access to basic resources (in
 **2. Data Collection and Cleaning:**
 
 • Collected 2019–2022 socioeconomic data from the American Community Survey (ACS).
-<br>
-
 
 **3. Data Exploration:**
 
@@ -35,9 +30,6 @@ This project investigated the relationship between access to basic resources (in
 • Conducted a correlation analysis and a Variance Inflation Factor (VIF) test.
 
 • Found that internet access and vehicle access are highly correlated (high VIF values), suggesting multicollinearity.
-<br>
-
-<br>
 
 **4. Prediction Model:**
 
@@ -45,15 +37,11 @@ This project investigated the relationship between access to basic resources (in
 
 • Classified counties accordingly to prepare labels for machine learning.
 
-<br>
-
 #### **Main Findings:**
 
 • Internet access is a strong and statistically significant predictor of food insecurity risk.
 
 • Vehicle access shows some relationship but overlaps heavily with internet access, so using only internet access improves model simplicity and reliability.
-
-<br>
 
 #### **Impact:**
 
