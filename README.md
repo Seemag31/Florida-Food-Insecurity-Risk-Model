@@ -7,6 +7,7 @@ This project investigated the relationship between access to basic resources (in
 <br>
 
 <br>
+
 #### **Our goals were to:**
 
 • Explore the socioeconomic factors influencing food insecurity.
@@ -17,6 +18,7 @@ This project investigated the relationship between access to basic resources (in
 <br>
 
 <br>
+
 #### **Key Steps:**
 
 **1. Data Selection**
@@ -43,6 +45,7 @@ This project investigated the relationship between access to basic resources (in
 <br>
 
 <br>
+
 #### **Main Findings:**
 
 • Internet access is a strong and statistically significant predictor of food insecurity risk.
